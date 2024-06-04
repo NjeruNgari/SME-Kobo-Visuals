@@ -42,5 +42,3 @@ Contributing
 We welcome contributions from the community. If you'd like to contribute, please fork the repository and create a pull request with your changes.
 
 With SME Kobo Visuals, gain valuable insights into SME loan data, empowering better decision-making and strategic planning for financial services in Izwe Loans Kenya.
-
-© 2024 Izwe Loans Kenya Limited. All rights reserved.
